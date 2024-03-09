@@ -8,5 +8,5 @@ pyparsing==2.0.2
 python-dateutil==2.2
 pytz==2014.4
 six==1.7.3
-tornado==4.0.1
+tornado==6.3.3
 wsgiref==0.1.2
